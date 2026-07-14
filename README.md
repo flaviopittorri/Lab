@@ -6,6 +6,12 @@ Projeto de Engenharia de Software para o desenvolvimento de um aplicativo móvel
 
 Este projeto tem como objetivo facilitar o agendamento de consultas médicas por meio de uma solução mobile, unindo funcionalidades como cadastro de usuários, gestão de agenda, agendamento, notificações e integração com sistemas externos de prontuário eletrônico. O contexto atual é de recuperação e estabilização, com foco em reduzir riscos, organizar prioridades e manter a entrega dentro do prazo previsto.
 
+## Cenário atual do projeto
+
+O projeto encontra-se em atraso em relação ao planejamento inicial. Das 10 funcionalidades previstas, 5 já estão concluídas, 3 permanecem em andamento e 2 ainda não foram iniciadas. Todas as entregas sofreram impacto acumulado, totalizando 2 meses adicionais no prazo inicial, em razão de bloqueios técnicos, dependências externas e ajustes de escopo.
+
+As justificativas, comunicações e planos de ação para esse cenário estão documentados neste repositório, especialmente nas pastas de contexto, comunicação e riscos.
+
 ## Objetivo
 
 Este repositório reúne a documentação principal e atualizada do projeto, incluindo:
