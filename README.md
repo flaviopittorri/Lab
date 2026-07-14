@@ -2,15 +2,36 @@
 
 Projeto de Engenharia de Software para o desenvolvimento de um aplicativo móvel de agendamento de consultas médicas.
 
+## Resumo do contexto do projeto
+
+Este projeto tem como objetivo facilitar o agendamento de consultas médicas por meio de uma solução mobile, unindo funcionalidades como cadastro de usuários, gestão de agenda, agendamento, notificações e integração com sistemas externos de prontuário eletrônico. O contexto atual é de recuperação e estabilização, com foco em reduzir riscos, organizar prioridades e manter a entrega dentro do prazo previsto.
+
 ## Objetivo
 
-Este repositório reúne a documentação inicial e atualizada do projeto, incluindo:
+Este repositório reúne a documentação principal e atualizada do projeto, incluindo:
 - plano de recuperação do projeto;
 - requisitos funcionais e não funcionais;
 - contexto geral e estrutura de acompanhamento do desenvolvimento;
 - análise de riscos, priorização e estratégias de resposta para stakeholders.
 
-## Estrutura
+## Estrutura do projeto
+
+```text
+Lab/
+├── Escopo/
+│   ├── Contexto.md
+│   └── requisitos.md
+├── Comunicacao/
+│   ├── plano-recuperacao.md
+│   ├── estrategia-respostas.md
+│   └── comunicacao-executiva.md
+├── Riscos/
+│   ├── identificacao-riscos.md
+│   └── Analise-quantitativa.md
+└── README.md
+```
+
+## Documentação principal
 
 - [Escopo/Contexto.md](Escopo/Contexto.md) — contexto geral da documentação
 - [Comunicacao/plano-recuperacao.md](Comunicacao/plano-recuperacao.md) — plano de ação para recuperação do projeto
